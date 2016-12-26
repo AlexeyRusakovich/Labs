@@ -1,0 +1,8 @@
+﻿  Lab6.cpp
+d:\ооп\лабараторные\lab7\lab6\lab6.cpp(14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\ооп\лабараторные\lab7\lab6\lab6.cpp(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\ооп\лабараторные\lab7\lab6\lab6.cpp(16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\ооп\лабараторные\lab7\lab6\lab6.cpp(21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\ооп\лабараторные\lab7\lab6\lab6.cpp(23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab6.vcxproj -> D:\ООП\Лабараторные\Lab7\Debug\Lab6.exe
+  Lab6.vcxproj -> D:\ООП\Лабараторные\Lab7\Debug\Lab6.pdb (Full PDB)
